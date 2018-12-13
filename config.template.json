@@ -1,0 +1,18 @@
+{
+    "ip" : "",
+    "phone" : {
+        "recipient": "",
+        "sender": ""
+    },
+    "twilio" : {
+        "account_id" : "",
+        "account_secret" : ""
+    },
+    "aws" : {
+        "ses" : {
+            "region" : "",
+            "recipient" : "",
+            "sender" : ""
+        }
+    }
+}
